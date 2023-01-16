@@ -1,0 +1,117 @@
+text,date
+"<center><h1>Otodom - 2023-01-08</h1></center>
+    <hr width=""90%"" color=""grey"" size=""1px"" <br>
+    <center><h2>Price changes: </h2></center><br> <table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: right;"">
+      <th></th>
+      <th>adId</th>
+      <th>link</th>
+      <th>area</th>
+      <th>oldPrice</th>
+      <th>newPrice</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>63216598</td>
+      <td>https://www.otodom.pl/pl/oferta/bezczynszowe-m2-nowa-inwestycja-bugaj-ID4hfvy</td>
+      <td>42.0</td>
+      <td>279000.0</td>
+      <td>275000.0</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>63532451</td>
+      <td>https://www.otodom.pl/pl/oferta/bugaj-bezczynszowe-nowa-inwestycja-2-pokoje-ID4izGX</td>
+      <td>42.0</td>
+      <td>262000.0</td>
+      <td>259000.0</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>63217542</td>
+      <td>https://www.otodom.pl/pl/oferta/bezczynszowe-m3-pabianice-ID4hfLM</td>
+      <td>54.0</td>
+      <td>225000.0</td>
+      <td>223000.0</td>
+    </tr>
+  </tbody>
+</table><br>
+    <hr width=""90%"" color=""grey"" size=""1px"" <br>
+    <center><h2>No new ads</h2></center><br>
+    <hr width=""90%"" color=""grey"" size=""1px"" <br>
+    <center><h2>No reactivated ads</h2></center><br>
+    <hr width=""90%"" color=""grey"" size=""1px"" <br>
+    <center><h2>No deleted ads</h2></center><br>
+    ",2023-01-08
+"<center><h1>Otodom - 2023-01-09</h1></center>
+    <hr width=""90%"" color=""grey"" size=""1px"" <br>
+    <center><h2>Price changes: </h2></center><br> <table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: right;"">
+      <th>adId</th>
+      <th>link</th>
+      <th>area</th>
+      <th>oldPrice</th>
+      <th>newPrice</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>63748478</td>
+      <td>https://www.otodom.pl/pl/oferta/okazja-bezczynszowe-mieszkanie-30m2-pabianic-ID4jtTg</td>
+      <td>30.0</td>
+      <td>186000.0</td>
+      <td>165000.0</td>
+    </tr>
+    <tr>
+      <td>63720608</td>
+      <td>https://www.otodom.pl/pl/oferta/unikatowe-m-po-remoncie-z-garderoba-bugaj-ID4jmDK</td>
+      <td>48.5</td>
+      <td>375000.0</td>
+      <td>369000.0</td>
+    </tr>
+  </tbody>
+</table><br>
+    <hr width=""90%"" color=""grey"" size=""1px"" <br>
+    <center><h2>New ads: </h2></center><br> <table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: right;"">
+      <th>adId</th>
+      <th>link</th>
+      <th>area</th>
+      <th>price</th>
+      <th>pricePerMeter</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>63829558</td>
+      <td>https://www.otodom.pl/pl/oferta/rozkladowe-4-pokoje-z-balkonem-ID4jOZ0</td>
+      <td>72.3</td>
+      <td>399000.0</td>
+      <td>5519.0</td>
+    </tr>
+    <tr>
+      <td>63828588</td>
+      <td>https://www.otodom.pl/pl/oferta/sprzedam-mieszkanie-pabianice-piaski-ID4jOJm</td>
+      <td>33.0</td>
+      <td>219000.0</td>
+      <td>6636.0</td>
+    </tr>
+    <tr>
+      <td>63828487</td>
+      <td>https://www.otodom.pl/pl/oferta/sprzedam-mieszkanie-3-pokojowe-61-6-m2-ID4jOHJ</td>
+      <td>61.6</td>
+      <td>369000.0</td>
+      <td>5990.0</td>
+    </tr>
+  </tbody>
+</table><br>
+    <hr width=""90%"" color=""grey"" size=""1px"" <br>
+    <center><h2>No reactivated ads</h2></center><br>
+    <hr width=""90%"" color=""grey"" size=""1px"" <br>
+    <center><h2>No deleted ads</h2></center><br>
+    ",2023-01-09
